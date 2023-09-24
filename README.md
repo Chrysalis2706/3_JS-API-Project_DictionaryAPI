@@ -14,6 +14,10 @@ This JavaScript mini project, created by Parth, allows users to quickly look up 
 > To hear the pronunciation, click the "speaker" icon.
 
 
+### Project preview
+![Preview](./preview.png)
+
+
 ### My Agenda
 This project was developed by Parth as a simple tool to enhance your vocabulary and language skills. Feel free to explore and use it to improve your understanding of words and their usage. If you have any feedback or suggestions, please don't hesitate to reach out.
 <br>
